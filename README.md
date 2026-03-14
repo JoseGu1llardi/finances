@@ -2,6 +2,8 @@
 
 A personal finance mobile app built with React Native and Firebase. Users can sign up, log in, and record income or expenses — with real-time balance updates and transaction history filtered by date.
 
+![Finances app screens](docs/screenshots.png)
+
 ## 🚀 Technologies
 
 | Tool | Version |
